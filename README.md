@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭I’m currently working on<br>Machine Learning and Deep Learning practice projects<br>Applying ML concepts using Python (NumPy, Pandas, scikit-learn)<br>Small applied AI experiments (classification, preprocessing, evaluation)<br>UI/UX design and web design projects<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly ML / DL projects<br>Open-source AI learning repositories<br>UI/UX and web design projects<br><br>🤝 I’m looking for help with<br>Improving model performance and evaluation<br>Best practices for structuring ML projects<br>Learning PyTorch/TensorFlow more deeply<br>Improving UI/UX workflows and design systems<br><br>I’m currently learning<br>Machine Learning algorithms<br>Deep Learning <br>Data preprocessing and model optimization<br>UI/UX principles and user-centered design<br>Web design fundamentals<br><br>
+# 💫About Me:
+I’m currently working on<br>Machine Learning and Deep Learning practice projects<br>Applying ML concepts using Python (NumPy, Pandas, scikit-learn)<br>Small applied AI experiments (classification, preprocessing, evaluation)<br>UI/UX design and web design projects<br><br> I’m looking to collaborate on<br>Beginner-friendly ML / DL projects<br>Open-source AI learning repositories<br>UI/UX and web design projects<br><br>I’m looking for help with<br>Improving model performance and evaluation<br>Best practices for structuring ML projects<br>Learning PyTorch/TensorFlow more deeply<br>Improving UI/UX workflows and design systems<br><br>I’m currently learning<br>Machine Learning algorithms<br>Deep Learning <br>Data preprocessing and model optimization<br>UI/UX principles and user-centered design<br>Web design fundamentals<br><br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=fatymabintebilal-fb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatymabintebilal-fb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fatymabintebilal-fb&icon=0&color=10)](https://visitcount.itsvg.in)
